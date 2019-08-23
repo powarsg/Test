@@ -1,3 +1,5 @@
 second file - initial commit
 
 Feature 2 - first change
+
+Feature 1 - first change
