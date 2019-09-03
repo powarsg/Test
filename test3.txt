@@ -1,1 +1,5 @@
 third file - initial commit
+
+Feature 3 - first change
+
+Feature 3 - second change - second commit
